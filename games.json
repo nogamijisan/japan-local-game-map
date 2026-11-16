@@ -1,0 +1,587 @@
+[
+  {
+    "title": "[Chilla's Art] Inunaki Tunnel | 犬鳴トンネル",
+    "creator": "Chilla's Art",
+    "creatorUrl": "https://store.steampowered.com/developer/ChillasArt",
+    "url": "https://store.steampowered.com/app/1185160/",
+    "prefectures": [
+      "福岡県"
+    ],
+    "region": "福岡県／旧犬鳴トンネル・犬鳴峠",
+    "platforms": [
+      "Steam",
+      "PC"
+    ],
+    "price": "有料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2019-11-19"
+  },
+  {
+    "title": "DUSK INDEX: GION（ダスクインデックスギオン）",
+    "creator": "mebius.／Cherrymochi／ブシロード",
+    "creatorUrl": "https://duskindexgion.bushiroad.com/",
+    "url": "https://store.steampowered.com/app/3907190/",
+    "prefectures": [
+      "京都府"
+    ],
+    "region": "京都府京都市／祇園・明治期の京都のAR再現",
+    "platforms": [
+      "Steam",
+      "PC",
+      "Switch",
+      "PS5",
+      "Xbox"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2026-01-29"
+  },
+  {
+    "title": "Ghost of Tsushima DIRECTOR’S CUT",
+    "creator": "Sucker Punch Productions／ソニー・インタラクティブエンタテインメント",
+    "creatorUrl": "https://www.suckerpunch.com/",
+    "url": "https://www.playstation.com/ja-jp/games/ghost-of-tsushima/",
+    "prefectures": [
+      "長崎県"
+    ],
+    "region": "長崎県対馬市／対馬島",
+    "platforms": [
+      "PS4",
+      "PS5",
+      "Steam",
+      "PC"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2021-08-20"
+  },
+  {
+    "title": "IWAKUNI QUEST",
+    "creator": "岩国市（開発：株式会社ゼロディブ）",
+    "creatorUrl": "https://www.city.iwakuni.lg.jp/",
+    "url": "https://chikakuni-iwakuni.com/topics/iwakuni-quest/",
+    "prefectures": [
+      "山口県"
+    ],
+    "region": "岩国市／錦帯橋・岩国城ほか",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "自治体企画",
+    "settingType": "実在地域",
+    "releaseDate": "2025-09-25"
+  },
+  {
+    "title": "Tokyo Dark",
+    "creator": "Cherrymochi",
+    "creatorUrl": "https://cherrymochi.com/",
+    "url": "https://store.steampowered.com/app/687260/",
+    "prefectures": [
+      "東京都"
+    ],
+    "region": "東京都／東京",
+    "platforms": [
+      "Steam",
+      "PC"
+    ],
+    "price": "有料",
+    "creatorType": "スタジオ",
+    "settingType": "実在地域",
+    "releaseDate": "2017-09-07"
+  },
+  {
+    "title": "あさぎりクエスト ～霧の里の秘宝～",
+    "creator": "熊本県あさぎり町（アプリ提供：IGETAYA CO., LTD.）",
+    "creatorUrl": "https://asagiri-quest.jp/",
+    "url": "https://play.google.com/store/apps/details?id=i.get.asagiri.aya",
+    "prefectures": [
+      "熊本県"
+    ],
+    "region": "熊本県球磨郡あさぎり町",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "price": "無料",
+    "creatorType": "自治体企画",
+    "settingType": "実在地域",
+    "releaseDate": "2025-02-28"
+  },
+  {
+    "title": "イハナシの魔女",
+    "creator": "Fragaria",
+    "creatorUrl": "https://fragaria.info/",
+    "url": "https://store.steampowered.com/app/1950570/",
+    "prefectures": [
+      "沖縄県"
+    ],
+    "region": "沖縄県／離島をモデルとした架空の島",
+    "platforms": [
+      "Steam",
+      "PC",
+      "Switch",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "BOOTH"
+    ],
+    "price": "有料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2022-08-19"
+  },
+  {
+    "title": "オカルトノート 土雲ガクレ編",
+    "creator": "カッパ永久寺",
+    "creatorUrl": "https://note.com/kappaqg19osimai",
+    "url": "https://freegame-mugen.jp/adventure/game_11405.html",
+    "prefectures": [
+      "奈良県"
+    ],
+    "region": "奈良県／古代史・土蜘蛛伝承をモチーフとする奈良",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2023-08-24"
+  },
+  {
+    "title": "ぐんまのやぼう あなたもわたしもぐんまけん 令和2年国勢調査対応版",
+    "creator": "RucKyGAMES（Switch版販売：ジー・モード）",
+    "creatorUrl": "https://ruckygames.com/",
+    "url": "https://store.steampowered.com/app/3119260/",
+    "prefectures": [
+      "群馬県"
+    ],
+    "region": "群馬県中心／全国の都道府県",
+    "platforms": [
+      "Steam",
+      "PC",
+      "Switch",
+      "Xbox"
+    ],
+    "price": "有料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2025-06-06"
+  },
+  {
+    "title": "しおさいのセレナード",
+    "creator": "少年舎",
+    "creatorUrl": "https://shounensha.booth.pm/",
+    "url": "https://booth.pm/ja/items/47148",
+    "prefectures": [
+      "神奈川県"
+    ],
+    "region": "神奈川県／湘南・江ノ島・藤沢・鎌倉",
+    "platforms": [
+      "PC",
+      "BOOTH"
+    ],
+    "price": "有料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2013-12-31"
+  },
+  {
+    "title": "しかきたん-オカルトノート寧楽奇譚-",
+    "creator": "カッパ永久寺",
+    "creatorUrl": "https://note.com/kappaqg19osimai",
+    "url": "https://freegame-mugen.jp/adventure/game_13940.html",
+    "prefectures": [
+      "奈良県"
+    ],
+    "region": "奈良県奈良市／奈良公園・興福寺・春日大社周辺",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2025-08-31"
+  },
+  {
+    "title": "しかしかしか――",
+    "creator": "カッパ永久寺",
+    "creatorUrl": "https://note.com/kappaqg19osimai",
+    "url": "https://freegame-mugen.jp/adventure/game_16113.html",
+    "prefectures": [
+      "奈良県"
+    ],
+    "region": "奈良県奈良市／奈良公園",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2026-11-08"
+  },
+  {
+    "title": "パラノマサイト FILE23 本所七不思議",
+    "creator": "スクウェア・エニックス",
+    "creatorUrl": "https://www.jp.square-enix.com/paranormasight/",
+    "url": "https://store.steampowered.com/app/2106840/",
+    "prefectures": [
+      "東京都"
+    ],
+    "region": "東京都墨田区・本所",
+    "platforms": [
+      "Switch",
+      "Steam",
+      "PC",
+      "Android",
+      "iOS"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2023-03-09"
+  },
+  {
+    "title": "パラノマサイト FILE38 伊勢人魚物語",
+    "creator": "スクウェア・エニックス",
+    "creatorUrl": "https://www.jp.square-enix.com/",
+    "url": "https://www.jp.square-enix.com/paranormasight/file38/",
+    "prefectures": [
+      "三重県"
+    ],
+    "region": "三重県／伊勢志摩・神島",
+    "platforms": [
+      "Switch",
+      "Steam",
+      "PC",
+      "Android",
+      "iOS"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2026-02-19"
+  },
+  {
+    "title": "ひぐらしのなく頃に奉 綿流し編",
+    "creator": "07th Expansion（竜騎士07）",
+    "creatorUrl": "https://07th-expansion.net/",
+    "url": "https://store.steampowered.com/app/410890/",
+    "prefectures": [
+      "岐阜県"
+    ],
+    "region": "岐阜県白川村・白川郷をモデルとした雛見沢村",
+    "platforms": [
+      "Steam",
+      "PC"
+    ],
+    "price": "有料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2015-11-13"
+  },
+  {
+    "title": "愛知クエスト",
+    "creator": "blazeworks",
+    "creatorUrl": "https://blazeworks.jp/",
+    "url": "https://aichiquest.blazeworks.jp/",
+    "prefectures": [
+      "愛知県"
+    ],
+    "region": "愛知県全域",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2023-11-21"
+  },
+  {
+    "title": "京都幽幻秘譚",
+    "creator": "煌月あや",
+    "creatorUrl": "https://www.freem.ne.jp/win/game/1762",
+    "url": "https://www.freem.ne.jp/win/game/1762",
+    "prefectures": [
+      "京都府"
+    ],
+    "region": "京都府／京都市",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2008-06-03"
+  },
+  {
+    "title": "言な絶えそね -行田創生RPG-",
+    "creator": "行田市（アプリ提供：IGETAYA）",
+    "creatorUrl": "https://www.kotona-taesone.com/",
+    "url": "https://play.google.com/store/apps/details?id=i.get.gyoda.aya",
+    "prefectures": [
+      "埼玉県"
+    ],
+    "region": "行田市／忍城・埼玉古墳群",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "price": "無料",
+    "creatorType": "自治体企画",
+    "settingType": "実在地域",
+    "releaseDate": "2018-02-23"
+  },
+  {
+    "title": "佐鳴湖に消ゆ",
+    "creator": "AA_",
+    "creatorUrl": "https://www.freem.ne.jp/win/game/35301",
+    "url": "https://www.freem.ne.jp/win/game/35301",
+    "prefectures": [
+      "静岡県"
+    ],
+    "region": "静岡県浜松市／佐鳴湖・鍛冶町",
+    "platforms": [
+      "ブラウザ",
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2026-10-07"
+  },
+  {
+    "title": "秋田市クエスト",
+    "creator": "株式会社コンダクター",
+    "creatorUrl": "https://www.conductor-japan.com/",
+    "url": "https://www.conductor-japan.com/akita-city-quest",
+    "prefectures": [
+      "秋田県"
+    ],
+    "region": "秋田県秋田市",
+    "platforms": [
+      "ブラウザ",
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2023-09-30"
+  },
+  {
+    "title": "太宰府カンコー奇聞わたる",
+    "creator": "ガミジ（GMJ）",
+    "creatorUrl": "https://x.com/nogamijisan",
+    "url": "https://nogamijisan.github.io/dazaifu-kanko-kibun/",
+    "prefectures": [
+      "福岡県"
+    ],
+    "region": "福岡県太宰府市",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": ""
+  },
+  {
+    "title": "打倒東京にはJimotoism",
+    "creator": "せをはやみ／株式会社カナメクト",
+    "creatorUrl": "https://www.jimotoism.com/",
+    "url": "https://store.steampowered.com/app/3488700/",
+    "prefectures": [
+      "埼玉県",
+      "東京都",
+      "北海道",
+      "熊本県"
+    ],
+    "region": "埼玉県を起点に全国各地／東京都・北海道・熊本県など",
+    "platforms": [
+      "Steam",
+      "PC",
+      "Switch"
+    ],
+    "price": "有料",
+    "creatorType": "スタジオ",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2025-06-11"
+  },
+  {
+    "title": "長崎離島探検～的山大島編～",
+    "creator": "BAKU-T",
+    "creatorUrl": "https://novelgame.jp/users/profile/2131",
+    "url": "https://novelgame.jp/games/show/1127",
+    "prefectures": [
+      "長崎県"
+    ],
+    "region": "長崎県平戸市／的山大島",
+    "platforms": [
+      "ブラウザ",
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": ""
+  },
+  {
+    "title": "電気街の喫茶店",
+    "creator": "冒険者酒館（パブリッシャー：PLAYISM）",
+    "creatorUrl": "https://playism.com/game/maid-cafe-on-electric-street/",
+    "url": "https://store.steampowered.com/app/1789030/",
+    "prefectures": [
+      "大阪府"
+    ],
+    "region": "大阪府大阪市浪速区・日本橋",
+    "platforms": [
+      "Steam",
+      "PC",
+      "Switch"
+    ],
+    "price": "有料",
+    "creatorType": "スタジオ",
+    "settingType": "実在地域",
+    "releaseDate": "2024-11-18"
+  },
+  {
+    "title": "日光★3猿HERO’s",
+    "creator": "G's iCON（AG Spirit）",
+    "creatorUrl": "https://rough-choo7.sakura.ne.jp/Nikko_3_Zaru/index.html",
+    "url": "https://www.freem.ne.jp/win/game/33224",
+    "prefectures": [
+      "栃木県"
+    ],
+    "region": "栃木県日光市",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2024-12-14"
+  },
+  {
+    "title": "日本事故物件監視協会2 -Japan Stigmatized Property-",
+    "creator": "日本事故物件監視協会／Loxarc Inc.",
+    "creatorUrl": "https://jp-stigmatized-property.com/",
+    "url": "https://store.steampowered.com/app/4193270/",
+    "prefectures": [
+      "静岡県",
+      "鳥取県",
+      "長野県"
+    ],
+    "region": "静岡県玄岳ドライブイン／鳥取県K邸／長野県ホテル・セリーヌ／四国K動物病院",
+    "platforms": [
+      "Steam",
+      "PC",
+      "Switch",
+      "Android",
+      "iOS"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2025-12-18"
+  },
+  {
+    "title": "風雨来記4",
+    "creator": "日本一ソフトウェア",
+    "creatorUrl": "https://fog.nippon1.jp/furaiki4/",
+    "url": "https://store.playstation.com/ja-jp/concept/10000772",
+    "prefectures": [
+      "岐阜県"
+    ],
+    "region": "岐阜県各地",
+    "platforms": [
+      "PS4",
+      "Switch"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2021-07-08"
+  },
+  {
+    "title": "北の地とひとりの少女～コロポックルの願い～",
+    "creator": "Rain Tiara",
+    "creatorUrl": "https://www.freem.ne.jp/win/game/24142",
+    "url": "https://www.freem.ne.jp/win/game/24142",
+    "prefectures": [
+      "北海道"
+    ],
+    "region": "北海道／コロポックル伝承の地",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2020-10-10"
+  },
+  {
+    "title": "北海道連鎖殺人 オホーツクに消ゆ ～追憶の流氷・涙のニポポ人形～",
+    "creator": "ジー・モード（原作：堀井雄二）",
+    "creatorUrl": "https://info.gmodecorp.com/cs/okhotsk/",
+    "url": "https://store.steampowered.com/app/2920390/",
+    "prefectures": [
+      "北海道"
+    ],
+    "region": "北海道／網走・釧路など",
+    "platforms": [
+      "Steam",
+      "PC",
+      "Switch"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2024-09-12"
+  },
+  {
+    "title": "魔界都市CHI-BA",
+    "creator": "こゆるぎ工房（長堀禎之）",
+    "creatorUrl": "https://sites.google.com/view/koyurugi-koubou",
+    "url": "https://play.google.com/store/apps/details?id=com.chiba.game",
+    "prefectures": [
+      "千葉県"
+    ],
+    "region": "千葉県",
+    "platforms": [
+      "Android",
+      "iOS",
+      "PC",
+      "Steam",
+      "BOOTH"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2026-03-16"
+  },
+  {
+    "title": "龍が如く６ 命の詩。",
+    "creator": "セガ／龍が如くスタジオ",
+    "creatorUrl": "https://ryu-ga-gotoku.com/six/",
+    "url": "https://store.steampowered.com/app/1388590/",
+    "prefectures": [
+      "東京都",
+      "広島県"
+    ],
+    "region": "東京都・神室町／広島県尾道市",
+    "platforms": [
+      "PS4",
+      "Xbox",
+      "Steam",
+      "PC"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2016-12-08"
+  }
+]
