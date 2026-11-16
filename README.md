@@ -35,22 +35,49 @@
 
     python -m http.server 8000
 
-## データの更新
+## Notionからの自動更新
 
-games.json は **2026-11-16 時点のNotion作品台帳**から抽出したスナップショットです。
-「掲載判定：掲載対象」かつ「配信ステータス：配信中」かつ「無効：未チェック」の26作品を収録しています。
-「無効」にチェックされた5作品は、公開するgames.jsonに含めていません。
-公開前に作品情報、配信形態、リンク先をご確認ください。
+`scripts/export_notion.py` がNotion APIから全件（100件単位でページネーション）を取得して
+`games.json` に書き出します。公開対象の条件はすべて満たす必要があります。
 
-Notionで作品を編集しても自動更新されません。新しい作品や確認状態を反映するには
-games.jsonを更新し、GitHubにコミットしてください。
-将来的にはNotion APIとGitHub Actionsによる自動更新が可能です。
+- `掲載判定` が **掲載対象**
+- `配信ステータス` が **配信中**
+- `無効` が **未チェック**
 
-Notion作品台帳にはチェックボックスの「管理人確認済」を追加しています。
-チェックした作品は、JSONで confirmed を true にすると緑の「✓ 管理人確認済」に変わります。
-未チェックまたはconfirmedがない作品は、灰色の「○ 未確認」です。
-**チェックをNotionで入れるだけではサイトに反映されません**（現状は手動のJSON更新が必要）。
-今回の初期データはすべて未チェックです。
+未確認の作品でも掲載対象なら掲載します。その場合は灰色の「○ 未確認」、
+`管理人確認済` がチェックされていれば緑の「✓ 管理人確認済」と表示されます。
+`掲載判定` が **保留** の作品は非公開のままです。
+
+### 初回セットアップ（GitHubで一度だけ）
+
+1. NotionのAPIトークンに、作品台帳への **読み取り権限** があることを確認します。
+   Notionで作品台帳の「接続」からインテグレーションを追加する必要がある場合があります。
+2. このGitHubリポジトリで **Settings → Secrets and variables → Actions → New repository secret** を開き、
+   `NOTION_TOKEN` という名前でトークンを登録します。公開リポジトリのVariablesには入れないでください。
+3. **Settings → Pages → Build and deployment → Source** を **GitHub Actions** に変更します。
+   これは重要です。GitHub Actionsの`GITHUB_TOKEN`による自動コミットは、
+   ブランチからのPagesビルドを新たに起動しないため、Pagesへの再デプロイも同じワークフローで行います。
+4. リポジトリの **Actions → Sync Notion games and deploy Pages → Run workflow** から初回実行します。
+   GitHub Actionsのログで「Notion ○件 → 公開 ○件」とPagesのデプロイ成功を確認してください。
+
+`.github/workflows/sync-notion.yml` は毎日 **日本時間03:17** に実行され、
+JSONが変わったときだけ`games.json`を自動コミットし、Pagesをデプロイします。
+HTMLなどの公開ファイルをpushした場合や、Actions画面の手動実行でも更新されます。
+
+Notion APIでエラーになった場合や公開件数が0件になる場合は、既存JSONを壊さず処理を停止します。
+ただし同期が成功すると、Notionでの公開判定の変更はサイトに反映されます。
+
+ローカルで動かす場合（Python 3.12、追加ライブラリ不要）：
+
+```bash
+export NOTION_TOKEN="（Notionのトークン）"
+export NOTION_DATA_SOURCE_ID="41add27a-37b4-812d-a3e3-000bdb2e4ba6"
+python scripts/export_notion.py --output games.json
+python -m unittest discover -s tests -v
+```
+
+※ 現在GitHubにある初期`games.json`は手動生成のスナップショットです。
+**初回のActions実行後**にNotionの最新情報へ切り替わります。
 
 ゲーム情報は次の項目を持つJSONの配列です。
 
