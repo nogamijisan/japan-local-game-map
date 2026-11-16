@@ -20,6 +20,27 @@
     "disabled": false
   },
   {
+    "title": "AKIBA'S TRIP ファーストメモリー",
+    "creator": "アクワイア",
+    "creatorUrl": "https://www.acquire.co.jp/",
+    "url": "https://akbstrip.acquire.co.jp/fm/",
+    "prefectures": [
+      "東京都"
+    ],
+    "region": "東京都千代田区・秋葉原",
+    "platforms": [
+      "Switch",
+      "PS4",
+      "Steam"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2021-05-20",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
     "title": "DUSK INDEX: GION（ダスクインデックスギオン）",
     "creator": "mebius.／Cherrymochi／ブシロード",
     "creatorUrl": "https://duskindexgion.bushiroad.com/",
@@ -43,6 +64,25 @@
     "disabled": false
   },
   {
+    "title": "GAKUNAN QUEST（岳南クエスト）",
+    "creator": "フジみる／スタックプラス",
+    "creatorUrl": "https://fuji-miru.com/",
+    "url": "https://fuji-miru.com/contents/",
+    "prefectures": [
+      "静岡県"
+    ],
+    "region": "静岡県富士市・富士宮市",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "スタジオ",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2024-11-27",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
     "title": "Ghost of Tsushima DIRECTOR’S CUT",
     "creator": "Sucker Punch Productions／ソニー・インタラクティブエンタテインメント",
     "creatorUrl": "https://www.suckerpunch.com/",
@@ -61,6 +101,45 @@
     "creatorType": "企業",
     "settingType": "実在地域",
     "releaseDate": "2021-08-20",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "Ghost of Yōtei",
+    "creator": "Sucker Punch Productions",
+    "creatorUrl": "https://www.suckerpunch.com/",
+    "url": "https://www.playstation.com/ja-jp/games/ghost-of-yotei/",
+    "prefectures": [
+      "北海道"
+    ],
+    "region": "北海道・羊蹄山周辺",
+    "platforms": [
+      "PS5"
+    ],
+    "price": "有料",
+    "creatorType": "スタジオ",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2025-10-02",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "Glove Story",
+    "creator": "一般社団法人ウェブ解析士協会（WACA）",
+    "creatorUrl": "https://glovestory.jp/",
+    "url": "https://glovestory.jp/",
+    "prefectures": [
+      "香川県"
+    ],
+    "region": "香川県東かがわ市",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "price": "無料",
+    "creatorType": "自治体企画",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2024-02-22",
     "confirmed": false,
     "disabled": false
   },
@@ -104,6 +183,27 @@
     "disabled": false
   },
   {
+    "title": "√Letter ルートレター Last Answer",
+    "creator": "ドラガミゲームス",
+    "creatorUrl": "https://www.r-letter.com/",
+    "url": "https://www.r-letter.com/",
+    "prefectures": [
+      "島根県"
+    ],
+    "region": "島根県松江市ほか",
+    "platforms": [
+      "Switch",
+      "PS4",
+      "Steam"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2018-12-20",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
     "title": "あさぎりクエスト ～霧の里の秘宝～",
     "creator": "熊本県あさぎり町（アプリ提供：IGETAYA CO., LTD.）",
     "creatorUrl": "https://asagiri-quest.jp/",
@@ -120,50 +220,6 @@
     "creatorType": "自治体企画",
     "settingType": "実在地域",
     "releaseDate": "2025-02-28",
-    "confirmed": false,
-    "disabled": false
-  },
-  {
-    "title": "イハナシの魔女",
-    "creator": "Fragaria",
-    "creatorUrl": "https://fragaria.info/",
-    "url": "https://store.steampowered.com/app/1950570/",
-    "prefectures": [
-      "沖縄県"
-    ],
-    "region": "沖縄県／離島をモデルとした架空の島",
-    "platforms": [
-      "Steam",
-      "PC",
-      "Switch",
-      "PS4",
-      "PS5",
-      "Xbox",
-      "BOOTH"
-    ],
-    "price": "有料",
-    "creatorType": "個人・同人",
-    "settingType": "実在地域モデル",
-    "releaseDate": "2022-08-19",
-    "confirmed": false,
-    "disabled": false
-  },
-  {
-    "title": "オカルトノート 土雲ガクレ編",
-    "creator": "カッパ永久寺",
-    "creatorUrl": "https://note.com/kappaqg19osimai",
-    "url": "https://freegame-mugen.jp/adventure/game_11405.html",
-    "prefectures": [
-      "奈良県"
-    ],
-    "region": "奈良県／古代史・土蜘蛛伝承をモチーフとする奈良",
-    "platforms": [
-      "PC"
-    ],
-    "price": "無料",
-    "creatorType": "個人・同人",
-    "settingType": "実在地域",
-    "releaseDate": "2023-08-24",
     "confirmed": false,
     "disabled": false
   },
@@ -225,7 +281,7 @@
     "creatorType": "個人・同人",
     "settingType": "実在地域",
     "releaseDate": "2025-08-31",
-    "confirmed": false,
+    "confirmed": true,
     "disabled": false
   },
   {
@@ -244,6 +300,91 @@
     "creatorType": "個人・同人",
     "settingType": "実在地域",
     "releaseDate": "2026-11-08",
+    "confirmed": true,
+    "disabled": false
+  },
+  {
+    "title": "ゆるキャン△ VIRTUAL CAMP ～本栖湖編～",
+    "creator": "ジェムドロップ",
+    "creatorUrl": "https://www.gemdrops.co.jp/",
+    "url": "https://store.steampowered.com/app/1514360/",
+    "prefectures": [
+      "山梨県"
+    ],
+    "region": "山梨県・本栖湖",
+    "platforms": [
+      "Switch",
+      "PS4",
+      "Steam"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2021-03-04",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "イハナシの魔女",
+    "creator": "Fragaria",
+    "creatorUrl": "https://fragaria.info/",
+    "url": "https://store.steampowered.com/app/1950570/",
+    "prefectures": [
+      "沖縄県"
+    ],
+    "region": "沖縄県／離島をモデルとした架空の島",
+    "platforms": [
+      "Steam",
+      "PC",
+      "Switch",
+      "PS4",
+      "PS5",
+      "Xbox",
+      "BOOTH"
+    ],
+    "price": "有料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2022-08-19",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "オカルトノート 土雲ガクレ編",
+    "creator": "カッパ永久寺",
+    "creatorUrl": "https://note.com/kappaqg19osimai",
+    "url": "https://freegame-mugen.jp/adventure/game_11405.html",
+    "prefectures": [
+      "奈良県"
+    ],
+    "region": "奈良県／古代史・土蜘蛛伝承をモチーフとする奈良",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2023-08-24",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "ツルギスタ 巨樹と時つむぎのソラ",
+    "creator": "つるぎ町（企画）",
+    "creatorUrl": "https://www.town.tokushima-tsurugi.lg.jp/",
+    "url": "https://play.google.com/store/apps/details?id=i.get.tsurugi.aya",
+    "prefectures": [
+      "徳島県"
+    ],
+    "region": "徳島県つるぎ町",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "price": "無料",
+    "creatorType": "自治体企画",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2025-01-23",
     "confirmed": false,
     "disabled": false
   },
@@ -294,22 +435,21 @@
     "disabled": false
   },
   {
-    "title": "愛知クエスト",
-    "creator": "blazeworks",
-    "creatorUrl": "https://blazeworks.jp/",
-    "url": "https://aichiquest.blazeworks.jp/",
+    "title": "三条上々!!! 山と川と鋼と八人の米神",
+    "creator": "八十里こえおプロダクション",
+    "creatorUrl": "",
+    "url": "https://freegame-mugen.jp/roleplaying/game_13750.html",
     "prefectures": [
-      "愛知県"
+      "新潟県"
     ],
-    "region": "愛知県全域",
+    "region": "新潟県三条市",
     "platforms": [
-      "Android",
-      "iOS"
+      "ブラウザ"
     ],
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": "2023-11-21",
+    "releaseDate": "2025-07-02",
     "confirmed": false,
     "disabled": false
   },
@@ -329,26 +469,6 @@
     "creatorType": "個人・同人",
     "settingType": "実在地域",
     "releaseDate": "2008-06-03",
-    "confirmed": false,
-    "disabled": false
-  },
-  {
-    "title": "言な絶えそね -行田創生RPG-",
-    "creator": "行田市（アプリ提供：IGETAYA）",
-    "creatorUrl": "https://www.kotona-taesone.com/",
-    "url": "https://play.google.com/store/apps/details?id=i.get.gyoda.aya",
-    "prefectures": [
-      "埼玉県"
-    ],
-    "region": "行田市／忍城・埼玉古墳群",
-    "platforms": [
-      "Android",
-      "iOS"
-    ],
-    "price": "無料",
-    "creatorType": "自治体企画",
-    "settingType": "実在地域",
-    "releaseDate": "2018-02-23",
     "confirmed": false,
     "disabled": false
   },
@@ -373,6 +493,67 @@
     "disabled": false
   },
   {
+    "title": "北の地とひとりの少女～コロポックルの願い～",
+    "creator": "Rain Tiara",
+    "creatorUrl": "https://www.freem.ne.jp/win/game/24142",
+    "url": "https://www.freem.ne.jp/win/game/24142",
+    "prefectures": [
+      "北海道"
+    ],
+    "region": "北海道／コロポックル伝承の地",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2020-10-10",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "北海道連鎖殺人 オホーツクに消ゆ ～追憶の流氷・涙のニポポ人形～",
+    "creator": "ジー・モード（原作：堀井雄二）",
+    "creatorUrl": "https://info.gmodecorp.com/cs/okhotsk/",
+    "url": "https://store.steampowered.com/app/2920390/",
+    "prefectures": [
+      "北海道"
+    ],
+    "region": "北海道／網走・釧路など",
+    "platforms": [
+      "Steam",
+      "PC",
+      "Switch"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2024-09-12",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "大分・別府ミステリー案内 歪んだ竹灯篭",
+    "creator": "ハッピーミール",
+    "creatorUrl": "https://bonusstage.net/",
+    "url": "https://bonusstage.net/taketourou/",
+    "prefectures": [
+      "大分県"
+    ],
+    "region": "大分県別府市・玖珠町など",
+    "platforms": [
+      "Switch",
+      "PS4",
+      "Steam"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2022-07-07",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
     "title": "太宰府カンコー奇聞わたる",
     "creator": "ガミジ（GMJ）",
     "creatorUrl": "https://x.com/nogamijisan",
@@ -388,6 +569,126 @@
     "creatorType": "個人・同人",
     "settingType": "実在地域",
     "releaseDate": "",
+    "confirmed": true,
+    "disabled": false
+  },
+  {
+    "title": "忍者物語 ～湖南市大冒険の巻～",
+    "creator": "株式会社メルプ",
+    "creatorUrl": "https://melp3.com/",
+    "url": "https://melpgame.com/",
+    "prefectures": [
+      "滋賀県"
+    ],
+    "region": "滋賀県湖南市",
+    "platforms": [
+      "ブラウザ"
+    ],
+    "price": "無料",
+    "creatorType": "企業",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2024-09-27",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "愛知クエスト",
+    "creator": "blazeworks",
+    "creatorUrl": "https://blazeworks.jp/",
+    "url": "https://aichiquest.blazeworks.jp/",
+    "prefectures": [
+      "愛知県"
+    ],
+    "region": "愛知県全域",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2023-11-21",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "日光★3猿HERO’s",
+    "creator": "G's iCON（AG Spirit）",
+    "creatorUrl": "https://rough-choo7.sakura.ne.jp/Nikko_3_Zaru/index.html",
+    "url": "https://www.freem.ne.jp/win/game/33224",
+    "prefectures": [
+      "栃木県"
+    ],
+    "region": "栃木県日光市",
+    "platforms": [
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2024-12-14",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "秋田・男鹿ミステリー案内 凍える銀鈴花",
+    "creator": "ハッピーミール",
+    "creatorUrl": "https://bonusstage.net/",
+    "url": "https://bonusstage.net/ginreika/",
+    "prefectures": [
+      "秋田県"
+    ],
+    "region": "秋田県・男鹿地方など",
+    "platforms": [
+      "Switch",
+      "PS4",
+      "Steam"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域",
+    "releaseDate": "2020-12-24",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "群馬県から来た少女・改",
+    "creator": "株式会社ヒューガ（HUGA Inc.）／日下一郎（ゲームデザイン）",
+    "creatorUrl": "https://www.huga-studio.com/",
+    "url": "https://store.steampowered.com/app/3473890/",
+    "prefectures": [
+      "群馬県"
+    ],
+    "region": "群馬県（群馬の自然・風俗、尾瀬・富岡製糸場などをモチーフ）",
+    "platforms": [
+      "PC",
+      "Steam",
+      "BOOTH"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2025-08-25",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "言な絶えそね -行田創生RPG-",
+    "creator": "行田市（アプリ提供：IGETAYA）",
+    "creatorUrl": "https://www.kotona-taesone.com/",
+    "url": "https://play.google.com/store/apps/details?id=i.get.gyoda.aya",
+    "prefectures": [
+      "埼玉県"
+    ],
+    "region": "行田市／忍城・埼玉古墳群",
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "price": "無料",
+    "creatorType": "自治体企画",
+    "settingType": "実在地域",
+    "releaseDate": "2018-02-23",
     "confirmed": false,
     "disabled": false
   },
@@ -433,25 +734,6 @@
     "disabled": false
   },
   {
-    "title": "日光★3猿HERO’s",
-    "creator": "G's iCON（AG Spirit）",
-    "creatorUrl": "https://rough-choo7.sakura.ne.jp/Nikko_3_Zaru/index.html",
-    "url": "https://www.freem.ne.jp/win/game/33224",
-    "prefectures": [
-      "栃木県"
-    ],
-    "region": "栃木県日光市",
-    "platforms": [
-      "PC"
-    ],
-    "price": "無料",
-    "creatorType": "個人・同人",
-    "settingType": "実在地域",
-    "releaseDate": "2024-12-14",
-    "confirmed": false,
-    "disabled": false
-  },
-  {
     "title": "風雨来記4",
     "creator": "日本一ソフトウェア",
     "creatorUrl": "https://fog.nippon1.jp/furaiki4/",
@@ -468,46 +750,6 @@
     "creatorType": "企業",
     "settingType": "実在地域",
     "releaseDate": "2021-07-08",
-    "confirmed": false,
-    "disabled": false
-  },
-  {
-    "title": "北の地とひとりの少女～コロポックルの願い～",
-    "creator": "Rain Tiara",
-    "creatorUrl": "https://www.freem.ne.jp/win/game/24142",
-    "url": "https://www.freem.ne.jp/win/game/24142",
-    "prefectures": [
-      "北海道"
-    ],
-    "region": "北海道／コロポックル伝承の地",
-    "platforms": [
-      "PC"
-    ],
-    "price": "無料",
-    "creatorType": "個人・同人",
-    "settingType": "実在地域モデル",
-    "releaseDate": "2020-10-10",
-    "confirmed": false,
-    "disabled": false
-  },
-  {
-    "title": "北海道連鎖殺人 オホーツクに消ゆ ～追憶の流氷・涙のニポポ人形～",
-    "creator": "ジー・モード（原作：堀井雄二）",
-    "creatorUrl": "https://info.gmodecorp.com/cs/okhotsk/",
-    "url": "https://store.steampowered.com/app/2920390/",
-    "prefectures": [
-      "北海道"
-    ],
-    "region": "北海道／網走・釧路など",
-    "platforms": [
-      "Steam",
-      "PC",
-      "Switch"
-    ],
-    "price": "有料",
-    "creatorType": "企業",
-    "settingType": "実在地域",
-    "releaseDate": "2024-09-12",
     "confirmed": false,
     "disabled": false
   },
