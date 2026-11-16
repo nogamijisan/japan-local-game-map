@@ -15,7 +15,9 @@
     "price": "有料",
     "creatorType": "個人・同人",
     "settingType": "実在地域モデル",
-    "releaseDate": "2019-11-19"
+    "releaseDate": "2019-11-19",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "DUSK INDEX: GION（ダスクインデックスギオン）",
@@ -36,7 +38,9 @@
     "price": "有料",
     "creatorType": "企業",
     "settingType": "実在地域モデル",
-    "releaseDate": "2026-01-29"
+    "releaseDate": "2026-01-29",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "Ghost of Tsushima DIRECTOR’S CUT",
@@ -56,7 +60,9 @@
     "price": "有料",
     "creatorType": "企業",
     "settingType": "実在地域",
-    "releaseDate": "2021-08-20"
+    "releaseDate": "2021-08-20",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "IWAKUNI QUEST",
@@ -73,7 +79,9 @@
     "price": "無料",
     "creatorType": "自治体企画",
     "settingType": "実在地域",
-    "releaseDate": "2025-09-25"
+    "releaseDate": "2025-09-25",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "Tokyo Dark",
@@ -91,7 +99,9 @@
     "price": "有料",
     "creatorType": "スタジオ",
     "settingType": "実在地域",
-    "releaseDate": "2017-09-07"
+    "releaseDate": "2017-09-07",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "あさぎりクエスト ～霧の里の秘宝～",
@@ -109,7 +119,9 @@
     "price": "無料",
     "creatorType": "自治体企画",
     "settingType": "実在地域",
-    "releaseDate": "2025-02-28"
+    "releaseDate": "2025-02-28",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "イハナシの魔女",
@@ -132,7 +144,9 @@
     "price": "有料",
     "creatorType": "個人・同人",
     "settingType": "実在地域モデル",
-    "releaseDate": "2022-08-19"
+    "releaseDate": "2022-08-19",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "オカルトノート 土雲ガクレ編",
@@ -149,7 +163,9 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": "2023-08-24"
+    "releaseDate": "2023-08-24",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "ぐんまのやぼう あなたもわたしもぐんまけん 令和2年国勢調査対応版",
@@ -169,7 +185,9 @@
     "price": "有料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": "2025-06-06"
+    "releaseDate": "2025-06-06",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "しおさいのセレナード",
@@ -187,7 +205,9 @@
     "price": "有料",
     "creatorType": "個人・同人",
     "settingType": "実在地域モデル",
-    "releaseDate": "2013-12-31"
+    "releaseDate": "2013-12-31",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "しかきたん-オカルトノート寧楽奇譚-",
@@ -204,7 +224,9 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": "2025-08-31"
+    "releaseDate": "2025-08-31",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "しかしかしか――",
@@ -221,7 +243,9 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": "2026-11-08"
+    "releaseDate": "2026-11-08",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "パラノマサイト FILE23 本所七不思議",
@@ -242,7 +266,9 @@
     "price": "有料",
     "creatorType": "企業",
     "settingType": "実在地域",
-    "releaseDate": "2023-03-09"
+    "releaseDate": "2023-03-09",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "パラノマサイト FILE38 伊勢人魚物語",
@@ -263,25 +289,9 @@
     "price": "有料",
     "creatorType": "企業",
     "settingType": "実在地域",
-    "releaseDate": "2026-02-19"
-  },
-  {
-    "title": "ひぐらしのなく頃に奉 綿流し編",
-    "creator": "07th Expansion（竜騎士07）",
-    "creatorUrl": "https://07th-expansion.net/",
-    "url": "https://store.steampowered.com/app/410890/",
-    "prefectures": [
-      "岐阜県"
-    ],
-    "region": "岐阜県白川村・白川郷をモデルとした雛見沢村",
-    "platforms": [
-      "Steam",
-      "PC"
-    ],
-    "price": "有料",
-    "creatorType": "個人・同人",
-    "settingType": "実在地域モデル",
-    "releaseDate": "2015-11-13"
+    "releaseDate": "2026-02-19",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "愛知クエスト",
@@ -299,7 +309,9 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": "2023-11-21"
+    "releaseDate": "2023-11-21",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "京都幽幻秘譚",
@@ -316,7 +328,9 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": "2008-06-03"
+    "releaseDate": "2008-06-03",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "言な絶えそね -行田創生RPG-",
@@ -334,7 +348,9 @@
     "price": "無料",
     "creatorType": "自治体企画",
     "settingType": "実在地域",
-    "releaseDate": "2018-02-23"
+    "releaseDate": "2018-02-23",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "佐鳴湖に消ゆ",
@@ -352,25 +368,9 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": "2026-10-07"
-  },
-  {
-    "title": "秋田市クエスト",
-    "creator": "株式会社コンダクター",
-    "creatorUrl": "https://www.conductor-japan.com/",
-    "url": "https://www.conductor-japan.com/akita-city-quest",
-    "prefectures": [
-      "秋田県"
-    ],
-    "region": "秋田県秋田市",
-    "platforms": [
-      "ブラウザ",
-      "PC"
-    ],
-    "price": "無料",
-    "creatorType": "企業",
-    "settingType": "実在地域",
-    "releaseDate": "2023-09-30"
+    "releaseDate": "2026-10-07",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "太宰府カンコー奇聞わたる",
@@ -387,29 +387,9 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": ""
-  },
-  {
-    "title": "打倒東京にはJimotoism",
-    "creator": "せをはやみ／株式会社カナメクト",
-    "creatorUrl": "https://www.jimotoism.com/",
-    "url": "https://store.steampowered.com/app/3488700/",
-    "prefectures": [
-      "埼玉県",
-      "東京都",
-      "北海道",
-      "熊本県"
-    ],
-    "region": "埼玉県を起点に全国各地／東京都・北海道・熊本県など",
-    "platforms": [
-      "Steam",
-      "PC",
-      "Switch"
-    ],
-    "price": "有料",
-    "creatorType": "スタジオ",
-    "settingType": "実在地域モデル",
-    "releaseDate": "2025-06-11"
+    "releaseDate": "",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "長崎離島探検～的山大島編～",
@@ -427,7 +407,9 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": ""
+    "releaseDate": "",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "電気街の喫茶店",
@@ -446,7 +428,9 @@
     "price": "有料",
     "creatorType": "スタジオ",
     "settingType": "実在地域",
-    "releaseDate": "2024-11-18"
+    "releaseDate": "2024-11-18",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "日光★3猿HERO’s",
@@ -463,30 +447,9 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域",
-    "releaseDate": "2024-12-14"
-  },
-  {
-    "title": "日本事故物件監視協会2 -Japan Stigmatized Property-",
-    "creator": "日本事故物件監視協会／Loxarc Inc.",
-    "creatorUrl": "https://jp-stigmatized-property.com/",
-    "url": "https://store.steampowered.com/app/4193270/",
-    "prefectures": [
-      "静岡県",
-      "鳥取県",
-      "長野県"
-    ],
-    "region": "静岡県玄岳ドライブイン／鳥取県K邸／長野県ホテル・セリーヌ／四国K動物病院",
-    "platforms": [
-      "Steam",
-      "PC",
-      "Switch",
-      "Android",
-      "iOS"
-    ],
-    "price": "有料",
-    "creatorType": "企業",
-    "settingType": "実在地域",
-    "releaseDate": "2025-12-18"
+    "releaseDate": "2024-12-14",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "風雨来記4",
@@ -504,7 +467,9 @@
     "price": "有料",
     "creatorType": "企業",
     "settingType": "実在地域",
-    "releaseDate": "2021-07-08"
+    "releaseDate": "2021-07-08",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "北の地とひとりの少女～コロポックルの願い～",
@@ -521,7 +486,9 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域モデル",
-    "releaseDate": "2020-10-10"
+    "releaseDate": "2020-10-10",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "北海道連鎖殺人 オホーツクに消ゆ ～追憶の流氷・涙のニポポ人形～",
@@ -540,7 +507,9 @@
     "price": "有料",
     "creatorType": "企業",
     "settingType": "実在地域",
-    "releaseDate": "2024-09-12"
+    "releaseDate": "2024-09-12",
+    "confirmed": false,
+    "disabled": false
   },
   {
     "title": "魔界都市CHI-BA",
@@ -561,27 +530,8 @@
     "price": "無料",
     "creatorType": "個人・同人",
     "settingType": "実在地域モデル",
-    "releaseDate": "2026-03-16"
-  },
-  {
-    "title": "龍が如く６ 命の詩。",
-    "creator": "セガ／龍が如くスタジオ",
-    "creatorUrl": "https://ryu-ga-gotoku.com/six/",
-    "url": "https://store.steampowered.com/app/1388590/",
-    "prefectures": [
-      "東京都",
-      "広島県"
-    ],
-    "region": "東京都・神室町／広島県尾道市",
-    "platforms": [
-      "PS4",
-      "Xbox",
-      "Steam",
-      "PC"
-    ],
-    "price": "有料",
-    "creatorType": "企業",
-    "settingType": "実在地域",
-    "releaseDate": "2016-12-08"
+    "releaseDate": "2026-03-16",
+    "confirmed": false,
+    "disabled": false
   }
 ]
