@@ -304,6 +304,26 @@
     "disabled": false
   },
   {
+    "title": "ものべの",
+    "creator": "Lose（開発）／HIKARI FIELD（Steam版販売）",
+    "creatorUrl": "",
+    "url": "https://store.steampowered.com/app/758090/",
+    "prefectures": [
+      "高知県"
+    ],
+    "region": "高知県香美市物部町・土佐山田周辺をモデルとする架空の茂伸村",
+    "platforms": [
+      "PC",
+      "Steam"
+    ],
+    "price": "有料",
+    "creatorType": "スタジオ",
+    "settingType": "実在地域モデル",
+    "releaseDate": "",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
     "title": "ゆるキャン△ VIRTUAL CAMP ～本栖湖編～",
     "creator": "ジェムドロップ",
     "creatorUrl": "https://www.gemdrops.co.jp/",
@@ -365,6 +385,27 @@
     "creatorType": "個人・同人",
     "settingType": "実在地域",
     "releaseDate": "2023-08-24",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "キミまで700km",
+    "creator": "ななほしサミット",
+    "creatorUrl": "https://nanahoshi-shop.booth.pm/",
+    "url": "https://novelgame.jp/games/show/7956",
+    "prefectures": [
+      "広島県"
+    ],
+    "region": "広島県・広島市周辺",
+    "platforms": [
+      "ブラウザ",
+      "PC",
+      "BOOTH"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "",
     "confirmed": false,
     "disabled": false
   },
@@ -450,6 +491,25 @@
     "creatorType": "個人・同人",
     "settingType": "実在地域",
     "releaseDate": "2025-07-02",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "世にも奇妙な広島物語",
+    "creator": "薊未ヨクト",
+    "creatorUrl": "",
+    "url": "https://novelgame.jp/games/show/4076",
+    "prefectures": [
+      "広島県"
+    ],
+    "region": "広島県内（旅行を通じて出会う不思議な物語）",
+    "platforms": [
+      "ブラウザ"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "",
     "confirmed": false,
     "disabled": false
   },
@@ -554,6 +614,25 @@
     "disabled": false
   },
   {
+    "title": "天尊降臨ヒムカイザー",
+    "creator": "MARGINE（合同会社未来アクセラレート、企画制作）／株式会社インパクトワークス（運営）",
+    "creatorUrl": "https://himukaizer.com/",
+    "url": "https://himukaizer.non-appli.com/",
+    "prefectures": [
+      "宮崎県"
+    ],
+    "region": "宮崎県宮崎市・青島海岸ほか",
+    "platforms": [
+      "ブラウザ"
+    ],
+    "price": "無料",
+    "creatorType": "企業",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2026-11-08",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
     "title": "太宰府カンコー奇聞わたる",
     "creator": "ガミジ（GMJ）",
     "creatorUrl": "https://x.com/nogamijisan",
@@ -570,6 +649,26 @@
     "settingType": "実在地域",
     "releaseDate": "",
     "confirmed": true,
+    "disabled": false
+  },
+  {
+    "title": "宇宙から届いた焼き物X",
+    "creator": "江尻俊章（Ejiri Toshiaki）",
+    "creatorUrl": "",
+    "url": "https://novelgame.jp/games/show/2913",
+    "prefectures": [
+      "佐賀県"
+    ],
+    "region": "佐賀県西松浦郡有田町",
+    "platforms": [
+      "ブラウザ",
+      "PC"
+    ],
+    "price": "無料",
+    "creatorType": "個人・同人",
+    "settingType": "実在地域",
+    "releaseDate": "2020-04-29",
+    "confirmed": false,
     "disabled": false
   },
   {
@@ -689,6 +788,26 @@
     "creatorType": "自治体企画",
     "settingType": "実在地域",
     "releaseDate": "2018-02-23",
+    "confirmed": false,
+    "disabled": false
+  },
+  {
+    "title": "金田一耕助シリーズ 本陣殺人事件",
+    "creator": "coly（KADOKAWA協力・監修）",
+    "creatorUrl": "https://colyinc.com/",
+    "url": "https://store.steampowered.com/app/3443380/",
+    "prefectures": [
+      "岡山県"
+    ],
+    "region": "岡山県の旧家・農村（物語上の舞台）",
+    "platforms": [
+      "Steam",
+      "Switch"
+    ],
+    "price": "有料",
+    "creatorType": "企業",
+    "settingType": "実在地域モデル",
+    "releaseDate": "2025-04-24",
     "confirmed": false,
     "disabled": false
   },
